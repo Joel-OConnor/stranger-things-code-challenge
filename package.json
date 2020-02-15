@@ -1,0 +1,16 @@
+{
+  "name": "stranger-things-code-challenge",
+  "version": "1.0.0",
+  "description": "code challenge for Charter",
+  "main": "strangerThings.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.0.1",
+    "request": "^2.88.2"
+  }
+}
