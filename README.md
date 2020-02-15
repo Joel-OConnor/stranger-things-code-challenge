@@ -4,6 +4,6 @@ To view my answer of the re-formated JSON data run `node server.js` in the conso
 
 ### Test
 
-To run tests simply run `npm install ; npm test` in your console.
+To run tests simply run `npm install ; npm test` in your console, or if you have installed dependancies already just run `npm test`.
 
 Thanks!
