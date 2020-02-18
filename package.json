@@ -12,5 +12,8 @@
     "chai": "^4.2.0",
     "mocha": "^7.0.1",
     "request": "^2.88.2"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0"
   }
 }
